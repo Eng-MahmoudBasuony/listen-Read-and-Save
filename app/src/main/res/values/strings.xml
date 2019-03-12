@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Learn Easily</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="text_header">كلما زاد حفظك لكلمات اللغة الإنجليزية زادت ثروتك اللغوية الإنجليزية وبالتالي زاد إتقانك لهذه اللغة</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_fragment">اكتب النص لقرائته</string>
+    <string name="chose_speed_ss">اختر سرعه النطق</string>
+    <string name="hint_Edittext">اكتب الكلمه الانجليزيه</string>
+
+
+</resources>

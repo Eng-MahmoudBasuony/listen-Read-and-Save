@@ -1,0 +1,120 @@
+-------
+Ambulance
+Analysis
+Angina
+Antibiotic
+Antiseptic
+Appendix
+Bandage
+Break
+Burn
+Calcium
+Calories
+Carbohydrates
+Chemist ' s = pharmacy
+Clinic
+Cut
+Dead
+Death
+Dentist
+Die
+Diet
+Doctor = Dr
+Emergency
+Faculty of Medicine
+First aid
+Headache
+Health
+Healthy = well
+Healthy food
+Hepatitis
+Hospital
+Ill = sick
+Ill people = sick people
+Influenza = flu = cold
+Injure
+Iron
+Medicine
+Ministry of Health
+Nephritis
+Nurse
+Oculist
+Operation = surgery
+Otitis
+Pain
+Patient
+Plaster   
+Protein
+Recover
+Report
+Sickness = illness = disease
+Sling
+Splenitis
+Surgeon
+Treat
+Treatment
+Unhealthy food
+Veterinary = vet
+Vitamin
+Wound
+Wounded
+X-ray
+--------
+Baboon
+Bat
+Bear
+Buffalo
+Camel
+Canary
+Cat
+Cheetah
+Chick
+Chicken
+Chimpanzee = chimp
+Cock
+Cow
+Crow                                                                     
+Cub
+Deer
+Dog
+Donkey
+Duck                                                                        
+Duckling
+Eagle
+Egret
+Elephant                                                                           
+Falcon
+Filly
+Fox
+Giraffe
+Goat
+Goose
+Gorilla
+Hen
+Horse
+Kitten
+Lamb
+Leopard
+Lion
+Llama
+Mammoth
+Monkey
+Ox
+Panda
+Parrot
+Peacock
+Pigeon
+Puppy
+Rabbit
+Seagull
+Sheep
+Swan
+Tiger
+Turkey
+Wolf
+Zebra
+I have got a cat .
+My grandfather keeps cows .
+It is a beautiful duckling .
+A giraffe has got a long neck .
+We saw lions at the zoo.

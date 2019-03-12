@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/chose_speed"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        app:showAsAction="ifRoom|withText"
+        android:title="سرعه الصوت"
+        android:iconTint="@color/colorchose"
+        >
+<menu>
+    <item
+        android:id="@+id/very_slow"
+        android:title="بطىء جدا"
+        />
+
+    <item
+        android:id="@+id/slow"
+        android:title="بطىء"
+        />
+
+
+    <item
+        android:id="@+id/defaulet"
+        android:title="الافتراضى"
+        />
+    <item
+        android:id="@+id/fast"
+        android:title="سريع"
+        />
+    <item
+        android:id="@+id/very_fast"
+        android:title="سريع جدا"
+        />
+
+</menu>
+    </item>
+
+
+
+</menu>

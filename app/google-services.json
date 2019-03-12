@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1094751909202",
+    "firebase_url": "https://learn-esaily.firebaseio.com",
+    "project_id": "learn-esaily",
+    "storage_bucket": "learn-esaily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094751909202:android:c2816666809d8dff",
+        "android_client_info": {
+          "package_name": "com.seconeddroid.eng_mahnoud83coffey.learnesaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094751909202-sqe5lllteh32j7i4t0do09hte6k9oi78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarjWL4aXem3zwnrN9KNZs-lzi6qd7ZFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

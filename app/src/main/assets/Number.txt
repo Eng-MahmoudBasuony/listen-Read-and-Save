@@ -1,0 +1,68 @@
+Numbers
+Zero
+One 
+Two 
+Three 
+Four 
+Five
+Six
+Seven
+Eight
+Nine
+Ten
+Eleven 
+Twelve 
+Therteen 
+Fourteen 
+Fifteen 
+Sixteen 
+Seventeen 
+Eighteen 
+Nineteen 
+Twenty 
+Thirty 
+Forty
+Fifty 
+Sixty
+Seventy
+Eighty 
+Ninety 
+Hundred
+Thousand
+Million 
+Ordinal Numbers
+First — 1st
+Second — 2 nd
+Third — 3 rd 
+Fourth— 4 th
+Fifth— 5 th
+Sixth— 6 th 
+Seventh— 7 th
+Eighth— 8 th
+Ninth— 9 th
+Tenth— 10 th
+Eleventh— 11 th
+Tewlfth— 12 th
+Therteenth— 13 th
+Fourteenth— 14 th
+Fifteenth— 15 th
+Sixteenth— 16 th
+Seventeenth — 17 th
+Thirtieth — 30 th 
+Fourtieth — 40 th 
+Fifth First — 51 st
+Sixth Second —- 62 nd
+even number
+odd number
+whole number
+to count
+My nephew knows how to count to ten 
+Arithmetic
+to calculate
+value
+average
+Subtraction
+Addition
+Multiplication
+Division
+remainder

@@ -1,0 +1,53 @@
+The Alphabet
+A
+B 
+C
+D 
+E 
+F 
+G 
+H 
+I
+J 
+K 
+L 
+M 
+N 
+O 
+P 
+Q 
+R 
+S 
+T
+U
+V 
+W
+X 
+Y 
+Z
+Punctuation
+comma
+fullstop
+colon
+semicolon
+exclamation mark , exclamation point
+apostrophe
+quotation mark
+parenthesis , bracket
+square bracket
+slash
+dash , hyphen
+underscore
+number sign , pound sign
+asterisk
+ampersand
+at sign
+speech mark
+question mark
+Letter
+Word
+Phrase
+Sentence
+paragraph
+line
+page

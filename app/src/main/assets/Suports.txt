@@ -1,0 +1,115 @@
+-----
+Air
+Climate
+Cloud
+Cloudy
+Cold
+Continent
+Cool
+Crater                                                                         
+Desert                                                                   
+Earth
+Earthquake
+Fountain
+Grass                                                                                                                                    
+Ground                                                                              
+Gulf
+Hill
+Hot
+Hurricane                                                                   
+Island
+Lake
+Land
+Mars
+Moon
+Mountain = Mount
+Nature
+Oasis                                                                             
+Ocean
+Palm tree                              
+Planet
+Pond
+Rain
+Rainy                                                                                             
+River
+Rocks
+Sand
+Sea
+Sky
+Snow
+Spring
+Star
+Stones
+Storm
+Stormy
+Sun
+Sunny
+Tree                                                                 
+Universe                                                    
+Valley
+Venus
+Volcano
+Water
+Waterfalls                                                                 
+Waves
+Weather
+Wind
+World
+----
+Athletics
+Ball
+Baseball
+Basket
+Basketball
+Boxer
+Boxing
+Car racing = motor racing
+Champion
+Championship
+Club
+Cup
+Driver
+Fight
+Fighter
+Fit
+Fitness
+Football
+Footballer = football player
+Foul
+Gladiator = wrestler                                                     
+Goal
+Goalkeeper                                                   
+Handball
+High jump
+Horse riding
+Judo
+Jumping
+Karate
+Kung Fu
+Match
+Medal
+Ninja
+Offside
+Out
+Pass
+Penalty
+Ping-pong = table tennis
+Pitch = playground
+Play
+Point
+Record
+Referee
+Run
+Running
+Score                            
+Sport
+Sports
+Stadium
+Swimming
+Swimming pool
+Taekwondo
+Tennis
+Track
+Volleyball
+Water ball = water polo
+Wrestling

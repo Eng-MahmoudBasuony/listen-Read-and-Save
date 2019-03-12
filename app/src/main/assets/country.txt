@@ -1,0 +1,201 @@
+--------
+Afghanistan                                                               
+Algeria
+America = the United States of America = the USA
+Argentina
+Australia
+Bahrain
+Belgium
+Brazil
+Britain = the United Kingdom = the UK
+Bulivia                                             
+Cameroon
+Canada                                   
+Chile                                                                              
+China
+Colombia = Columbia 
+Comoros= Comoros Islands 
+Cuba
+Côte d'Ivoire
+Denmark
+Djibouti
+Ecuador
+Egypt = the Arab Republic of Egypt = the ARE
+Emirates = the United Arab Emirates = the UAE 
+Ethiopia
+Finland
+France
+Germany                                                            
+Ghana
+Greece
+Iceland                                                 
+India                                                                                                                       
+Indonesia
+Iran
+Iraq
+Italy
+Japan
+Jordan                                               
+Kuwait                                            
+Lebanon
+Libya
+Malaysia
+Mauritania
+Mexico
+Morocco
+Netherlands
+New Zealand
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Peru
+Poland
+Portugal
+Qatar
+Russia
+Saudi Arabia = the Kingdom of Saudi Arabia = the KSA 
+Senegal                                                
+Singapore
+Somalia
+South Africa
+South Korea
+Spain
+Sudan
+Sweden                                 
+Switzerland
+Syria
+Tanzania                       
+Thailand
+The Philippines
+Tunisia
+Turkey
+Uganda
+Ukraine
+Venezuela
+Yemen
+---------
+Airport
+Antique
+Bag
+Baksheesh = tip
+Bazaar
+Beach
+Bellman
+Cafeteria = café
+Checkout
+Cook = chef
+Foreigner
+Group
+Guest
+Guest relation
+Guide
+Hall
+Hotel
+Hotel manager
+Information
+Language
+Leaflet
+Lobby
+Management
+Monuments
+Order
+Passport
+Reception
+Receptionist
+Reservation
+Resort
+Restaurant
+Room
+Room service
+Sea
+Security
+Sightseeing
+Souvenirs
+Stay
+Suitcase
+Suite
+Supervisor
+Tourism
+Tourism company
+Tourist
+Tourist bus
+Tourist guide = tour guide
+Translation
+Translator
+Travel
+Waiter = busboy
+Waitress
+---------
+Academy = institute
+Agency
+Airport
+Area = region = zone
+Baker's = bakery
+Bank
+Barber's shop
+Bazaar
+Beach
+Bookshop = bookstore
+Cafeteria = café
+Chemist's = pharmacy
+Church
+Cinema
+City
+Class
+Classroom
+Clinic
+Clothes shop
+Club
+Company = corporation
+Continent
+Country
+Dentist's clinic
+Desert
+Doctor's clinic
+Embassy
+Establishment
+Faculty
+Farm
+Field
+Garage
+Garden
+Greengrocer's
+Grocer's
+Home
+Hospital
+House
+Island
+Lake
+Land
+Library
+Market
+Mosque
+Oasis
+Ocean
+Organisation = organization
+Park
+Pitch = playground
+Police station
+Port
+Post office
+Restaurant
+River
+Room
+School
+Sea
+Shoe shop
+Shop
+Stationery
+Swimming pool
+Theatre
+Tourism company
+Town
+University
+Valley
+Village
+Workshop
+Zoo

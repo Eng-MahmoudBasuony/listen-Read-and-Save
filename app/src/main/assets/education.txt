@@ -1,0 +1,171 @@
+----------
+Academy = institute
+Advanced studies
+Arabic
+Art
+Assistant lecturer
+Assistant professor
+Bachelor
+Bag
+Bench
+Blackboard
+Book
+Certification
+Chair
+Class
+Classmate
+Classroom
+Colleague
+College
+Copybook = notebook
+Course
+Dean
+Degree
+Demonstrator                
+Desk
+Diploma
+Director
+Doctor ( Dr ) = professor                                                    
+Doctorate
+Elementary school = grade school = primary school
+English
+French
+Geography
+German
+Headteacher
+High school = secondary school
+History
+Index
+Inspector
+Italian
+Kindergarten ( KG ) = nursery = nursery school
+Lecture
+Lecturer
+Lesson
+Licence = license
+Master
+master = mister ( Mr ) = sir                                                
+Mathematics = maths
+Miss
+Mistress = Mrs
+Ms
+Music
+Pen
+Pencil
+Pencil box = pencil case
+Physical Education
+Playground
+Preparatory school = prep school
+Pupil
+qualification
+Reference
+Rubber
+Ruler
+School
+Science                                                                                                                                                        
+Sharpener
+Source
+Spanish
+Student
+Subject
+Table
+Teacher
+University
+His bag is blue .
+She is in class five .
+We study English .
+He has got a licence of arts .
+I am a student .
+----------
+Accountant
+Actor
+Actress
+Archaeologist
+Architect
+Assistant lecturer
+Assistant professor
+Author = writer
+Baker
+Barber
+Bellman
+Biologist
+Body guard = guard = guardian
+Boxer
+Builder = mason
+Busboy = waiter
+Carpenter                                                         
+Chef = cook
+Chemist
+Civil engineer
+Clerk
+Computer programmer
+Dean
+Demonstrator
+Dentist
+Doctor = ( Dr )
+Diplomatic
+Director
+Dispenser
+Doctor ( Dr ) = professor
+Dressmaker
+Driver
+Druggist
+Electrician
+Electronic commerce specialist
+Electronic marketing specialist
+Employee
+Engineer
+Farmer
+Fishmonger
+Footballer = football player
+Fruiterer
+Geographic
+Gladiator = wrestler
+Goalkeeper
+Greengrocer                                                                                
+Grocer
+Hairdresser
+Headteacher
+Historian
+Hotel manager
+Inspector
+Ironer
+Jeweler = jeweller
+Journalist
+Judge
+Lawyer
+Lecturer
+Librarian
+Marketer                                                     
+Mechanic
+Milkman
+Nurse
+Oculist
+Painter
+Photographer
+Poet
+Poetess
+Policeman = police officer
+Porter
+Producer
+Psychologist
+Pupil
+Receptionist
+Referee                                                                       
+Reporter
+Scientist
+Shepherd
+Singer
+Student
+Supervisor
+Surgeon
+Swimmer
+Tailor
+Teacher
+Tourist guide = tour guide
+Translator
+Waitress
+Watchman
+Web designer
+Worker
+Zoologist

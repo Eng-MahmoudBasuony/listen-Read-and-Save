@@ -1,0 +1,469 @@
+------------------
+Academy
+Access
+Accessories
+Account
+Active
+Add
+Administrator
+Agency
+Antique
+Application = app
+Baby
+Bachelor
+Back
+Back left
+Back right
+Baksheesh = tip
+Balcony
+Balloon
+Bank
+Basket
+Bazaar
+Beef
+Beige
+Bellman
+Bench
+Black
+Blogger
+Board
+Body
+Bodyguard
+Bold
+Bomb
+Boots
+Break
+Burger
+Bus
+Business
+Bye = bye bye
+Cable = wire
+Cafeteria = café
+Camera
+Can
+Cancel
+Captain
+Card
+Cart
+Carton
+Cartoon
+Cash
+Cashier
+Catch
+Center
+Chat
+Check = cheque
+Cheetah
+Chef
+Cinema
+Classic
+Click
+Comment
+Compact disk = CD
+Computer
+Cool
+Copy
+Corner
+Correct
+Course
+Cover
+Cut
+Decor
+Delete
+Delivery
+Design
+Desktop
+Digital video disk ( DVD )
+Diploma
+Dirty
+Dish
+Doctor ( Dr )
+Dry-clean
+mail ( E-mail )
+End
+-----------------------------------
+Adjective ( adj )
+Adverb ( adv )
+Advertisement = Ad
+Aeroplane ( plane )
+Alexandria( Alex ) 
+America = the United States of America = the USA
+American University in Cairo ( AUC )
+Anno domini ( AD )
+Ante meridiem ( am )
+Application ( app )
+August ( Aug )
+Automated teller machine = automatic teller machine ( ATM )
+Before Christ ( BC )
+Bicycle ( bike )
+Britain = the United Kingdom = the UK
+Can not ( can ' t )
+Carbon copy ( CC )
+Central Intelligence Agency ( CIA )
+Commercial ( com )
+Compact disk ( CD )
+Could not ( couldn ' t )
+Curriculum vitae ( CV ) = resume
+December ( Dec )
+Did not ( didn ' t )
+Do not ( don ' t )
+Does not ( doesn ' t )
+East ( E )
+Egypt = the Arab Republic of Egypt = the ARE
+Electronic mail ( e – mail )
+the United Arab Emirates = the UAE = Emirates
+Etcetera ( etc )
+Example given ( eg ) = for example = example ( ex )
+February ( Feb )
+Federal Bureau of Investigation ( FBI )
+Friday ( Fri )
+He has ( he ' s )
+He is ( he ' s )
+High definition ( HD )
+Hypertext markup language ( HTML )
+Hypertext transfer protocol ( HTTP )
+I am ( I ' m )
+I have ( I ' ve )
+I will ( I ' ll )
+I would like to ( I ' d like to ) = I want to
+I would love to ( I ' d love to )
+I would prefer to ( I ' d prefer to ) = I would rather ( I ' d rather )
+Identification ( ID ) = identity ( ID )
+International computer driving licence ( ICDL )
+International standard book number ( ISBN )
+Internet Protocol ( IP )
+It has ( it ' s )
+It is ( it ' s )
+January ( Jan )
+Kilometer ( km ) = 1000 metre
+Laboratory ( Lab )
+-----------------
+Accept
+Add
+Advertise = announce
+Answer = reply
+Argue
+Arrange
+Arrive ( in / at ) = get to = reach
+Ask
+Bang
+Be
+Bear
+Become
+Begin = start
+Believe
+Bite
+Blow
+Book = reserve
+Borrow
+Break
+Breathe
+Bring
+Brush
+Build
+Burn = fire
+Buy
+Can
+Cancel
+Carry
+Catch
+Change
+Chase
+Check
+Choose = select
+Clean
+Climb
+Climb down = descend = go down
+Climb up = go up
+Close = shut
+Collect
+Come
+Compare
+Complete
+Cook
+Correct
+Cost
+Count
+Cover
+Create
+Cross
+Cry = shout
+Cut
+--------2--------
+Damage
+Decide
+Decrease
+Delay
+Delight
+Deliver
+Describe
+Desert
+Design
+Destroy
+Dial
+Die
+Differ
+Dig
+Digest
+Disappear
+Disappoint
+Discover = find out
+Discuss
+Dislike
+Dive = sink
+Divide
+Do
+Draw
+Dream
+Drill
+Drink
+Drive
+Drive down
+Drive up
+Drop
+Dust
+Eat
+Electronic mail ( e – mail )
+Empty
+End = finish
+Enter
+Erupt
+Escape = get away = run away
+Estimate
+Except
+Excite
+Exercise = practise = train
+Exhaust = tire
+Expect
+Explode
+Face
+Fail
+Fall
+Feed
+Feel
+Fight
+Fill
+Find
+Fire
+Fly
+Forget
+Forgive
+Form
+Freeze
+Fry
+Get
+Get angry
+Get better
+Get dirty
+Get excited
+Get lost = lose the way
+Get married
+Get out = go out
+Get ready = prepare
+Get up = wake up
+Get wet
+Give
+Give up
+Glue
+Go
+Go crazy = go mad
+Go fishing = fish
+Go for a walk
+Go hunting = hunt
+Go sailing = sail
+Go shopping = shop
+Go swimming = swim
+Grow
+Guess
+Guide
+Happen = occur = take place
+Harm = hurt = injure
+Hear
+Heat
+Hesitate
+Hibernate
+Hide
+Hold
+Hole
+Hop = jump
+Hope
+Hurry
+Imagine
+Import
+Include
+Insist
+Intend
+Interest = look after = take care of
+Invent
+Invest
+Invite
+Iron
+Journey = make a journey
+Justify
+Keep
+Keep in touch with
+Kill
+Know
+Know about
+Know how to
+-------------
+Active = energetic
+Advanced
+Afraid = frightened = scared
+Agreeable
+Alive
+Amazing = wonderful
+Attractive
+Available
+Bad
+Beautiful = pretty
+Beginner
+Bold
+Boring
+Brave
+Busy
+Calm = quiet
+Careful = keen
+Careless
+Cheap
+Cheerful
+Classic
+Clean
+Clever
+Closed
+Cold
+Comfortable
+Cool
+Cooperative
+Correct = right
+Coward
+Crazy = mad
+Criminal
+Crowded
+Dangerous
+Dark
+Dead
+Deep
+Delicious = tasty
+Delighted = glad = happy = pleased
+Difficult
+Dirty
+Dishonest
+Early
+Easy
+Empty
+Enjoyable
+Enormous = massive = very big
+Excellent
+Expensive
+Failing = unsuccessful
+Famous = known
+Fantastic = marvelous
+Far
+Fast = quick
+Fat
+Fine = nice
+Fit
+Fond
+Foolish
+Free
+Friendly
+Full
+Funny
+Generous
+Giant
+Good
+Great
+Handsome
+Hard
+Hardy
+Healthy
+Heavy
+Helpful
+High
+Honest
+Horrible = terrified
+Hot
+Hungry
+Ill = sick
+My brother is active .
+Lions are dangerous .
+Illegal
+Impolite = rude
+Impossible
+Incorrect = wrong
+Intelligent
+Interesting
+Intermediate
+Invalid
+Irregular
+Kind
+Late
+Lazy
+Legal
+Liar
+Light
+Long
+Loose
+Lost
+Low
+Miserly
+Narrow
+Naughty
+Near
+Nervous
+New
+Occupied
+Old
+Open
+Optimistic
+Original
+Pessimistic
+Polite
+Poor
+Possible
+Professional
+Rainy
+Regular
+Relaxed
+Rich
+Rough
+Sad
+Safe = secure
+Salty
+Savage
+Short
+Silly
+Slow
+Small
+Smart
+Smooth = soft
+Snowy
+Stationary
+Stormy
+Strong
+Stupid
+Successful
+Sunny
+Tall
+Tame
+Thin
+Tidy
+Tiny
+Tolerant
+Ugly
+Unhealthy
+Unknown
+Used
+Useful
+Valid
+Valuable
+Warm
+Weak
+Wide
+Wild
+Windy
+Wise
+Worried
+Wounded
+Young

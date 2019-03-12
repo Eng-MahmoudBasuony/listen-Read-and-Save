@@ -1,0 +1,115 @@
+--------
+Cupboard clothes
+ironing clothes
+casual 	 
+smart 	 
+well dressed 	 
+tidy 	 
+shabby 	 
+messy
+cloth 	 
+cloths 	 
+shirt 	 
+trousers 	 
+casual shirts 	 
+dress pants 	 
+jeans 	 
+under wear 	 
+a suit
+a dress shint 	
+tie 	 
+a suit coat 	 
+vest 	 
+skirt 	 
+a dress 	 
+sweat shirt 	 
+pajama 	 
+socks 	 
+sandles
+slippers 	
+belt 	 
+bag 	 
+glasses 	 
+burn bag 	 
+hat 	 
+cap 	 
+coat 	 
+gloves 	 
+trainers
+high heel shoes 	
+swimsuit 	 
+bathrobe 	 
+cowboy boots 	 
+wallet 	 
+scarf 	 
+sweater jumper 	 
+T shirt 	 
+tights 	 
+rain coat 
+--------
+Account
+Accountant
+Accounting
+Administration
+Administrative
+Administrator
+Area = zone
+Association
+Balance
+Bank
+Banknote
+Bank order = bank transfer
+Bill
+Book
+Borrow
+Branch
+Business
+Businessman
+Businesswoman
+Buy
+Buyer
+Calculator
+Card
+Cash
+Cashier
+Check = cheque
+Checkout line
+Clerk = employee
+Client
+Commerce
+Commission
+Company = corporation
+Contract
+Cost
+Count
+Currency
+Customer
+Customs
+Debt
+Deliver
+Delivery
+Department
+Director
+Distribute
+Distribution
+Earn = profit
+Earnings = profits
+Economist
+Economy
+Electronic commerce
+Electronic commerce specialist
+Electronic marketing
+Electronic marketing specialist
+Est gratia = for example
+Export
+Exports
+Factory
+Fees
+Finance
+Free
+Goods
+Import
+Imports
+My father is an accountant .
+He has got a bank account .
+I received a bank transfer .

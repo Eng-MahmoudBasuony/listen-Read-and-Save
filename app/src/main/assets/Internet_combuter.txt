@@ -1,0 +1,389 @@
+---------------------
+Access
+Board
+Button
+Cable = wire
+Click = press
+Close = shut down
+Command = order
+Compact
+Compact disk = CD
+Computer
+Computer engineer
+Computer programer = computer programmer
+Computer Science
+Connect
+Connection
+Connective
+Contact
+Control
+Control panel
+Copy
+Desktop
+Device
+Disk 
+Document
+Edit
+Editor
+Excel
+Favourite
+Features
+File
+Floppy
+Floppydisk
+Folder
+Format
+Formation
+Group
+Hard disk
+Hardware
+Help
+Icon
+Insert
+Install
+Installation
+International computer driving licence = ICDL
+Keyboard
+Log off = sign out
+Menu
+Monitor
+Motherboard
+Mouse
+Open
+Optional
+Options
+Password
+Paste
+Picture
+Place
+Power
+Powerpoint
+Print
+Printer
+Process
+Processor
+Program = programme
+Prompt
+Random access memory
+Recent
+Recently
+Recycle bin
+Restart
+Router
+Run
+Scan
+Scanner
+Screen
+Set up
+Sleep
+Software
+Start
+Switch off = turn off
+Switch on = turn on   
+System
+Table
+Task
+Text
+Tool
+Type
+Typist
+Use
+Used
+User
+Username
+Windows
+Wireless
+Word
+------------------
+About us
+Accept
+Account
+Add
+Address
+Advertise
+Advertisement = Ad
+Advertiser
+Affiliate
+Analysis
+Analytics
+Anonymous
+Application = app
+Archives
+Background
+Blogger
+Buy
+Buyer
+Calendar
+Call us = contact us
+Carbon copy ( CC )
+Channel
+Chat
+Circle
+Classified advertisements = classified Ads
+Comment
+Confirm
+Confirmation
+Confirmation number
+Continue
+Create
+Customize
+Dashboard 
+Delete
+Describe
+Description
+Draft
+Earn
+Earnings
+Edit
+Electronic mail ( E-mail )
+E-mail address
+E-mail marketing
+Engine
+Enter = sign in
+Event
+Fans
+Follow
+Follower
+Following
+Forget
+Forum
+From
+Hangout
+Home page
+Hyper link
+Hypertext markup language ( HTML )
+Hypertext transfer protocol ( HTTP )
+Inbox
+Interface
+Internet
+Language
+Laptop
+Lay out
+Like
+Link
+Member
+Membership
+Message
+Methods of payment
+Methods of shipping
+Net
+Network
+News
+Notepad
+Notification
+Notify
+Page
+Pay
+Payer
+Payment
+Post
+Privacy policy
+Profile
+Publish
+Register
+Registration
+Remember
+Search engine
+Search engine optimization ( SEO )
+Secure
+Security
+Sell
+Seller
+Send
+Server
+Service
+Setting
+Share
+Ship
+Shipping
+Sign out
+Sign up
+Social media
+Social media marketing
+Spam
+Spider
+Statistic = stat
+Subject
+Submission
+Submit
+Subscribe
+Subscriber
+Subscription
+Survey
+Tab
+Tablet
+Template
+Terms of use
+To
+Traffic
+Translate
+Translation
+Trash
+Twitter = tweet
+Uniform resource locator ( URL )
+Verification
+Verification code
+Verify
+Video
+Video marketing
+View
+Vote
+Web
+Weblog = blog
+Website
+------------
+Advice
+Advise
+Also
+Although
+Ant / aunt
+Bald / bold
+Be
+Bee
+Black
+Block
+Blow
+Blue
+Boat
+Boot
+Bowels
+Bowl
+Buy
+By = via
+Bye = bye bye = goodbye
+Cat / cut
+Close = shut down
+Cloth
+Coast
+Cost
+Cub
+Cup
+Deck / duck
+Dig
+Dog
+Except
+Expect
+Fat / fit
+Fail / fall / feel / fill / fuel / full
+Flay / fly
+Floor
+Flour
+Flower
+For / four
+Form / from
+God
+Good
+Goods
+Hat / hit / hot / hut
+Hay
+Hey
+Hi ! = hello ! = welcome !
+High
+Hop
+Hope
+Lake / like
+Lamb
+Lamp
+Late
+Later
+Latter
+Letter
+Litter = rubbish = trash
+Lock
+Look
+Made
+Make
+Mast / must
+Meat
+Meet
+Net
+Not
+Nut
+Pit
+Pot
+Quiet
+Quit
+Quite
+Read
+Red
+Replay
+Reply
+Road
+Rude = impolite
+Sea
+See
+Sheep
+Ship
+Shop
+Small
+Smell
+Son / sun
+Straight
+Street
+Tab / tub
+Talk / took
+Taste / test
+Ten
+Tin
+To
+Too
+Two
+Want / went
+Way / why
+Wear
+Were
+Where
+Win
+Won
+Won't = will not
+--------------
+Able to / unable to
+Above / under
+Activity / laziness
+After / before
+Always / never
+Awake / asleep
+Badly / well
+Beauty / ugliness
+( Beginning = start ) / ( end = finish )
+Behind / ( in front of = opposite )
+Better / worse
+Black / white
+Bottom / top
+Carefully / carelessly
+Common / uncommon
+Complex / simple
+Darkness / light
+Day / night
+Death / life
+Different / the same
+Downstairs / upstairs
+Enemy / friend
+Evening / morning
+Farther / nearer
+( Fast = quickly ) / slowly
+( Fortunately = luckily ) / ( unfortunately = unluckily )
+Greedy / satisfied
+Happiness / sadness
+Here / there
+Important / unimportant
+Independence / occupation
+Inside / outside
+Locked / ( open = unlocked )
+Noise / silence
+Older / younger
+Patiently / impatiently
+Politely / ( impolitely = rudely )
+( Poorness = poverty ) / ( richness = wealth )
+Probable / improbable
+Pure / impure
+( Real = true ) / ( unreal = untrue )
+Right / wrong
+Security / fear
+Strength / weakness
+The best / the worst
+The first / the last
+The future / the past
+Tidy / untidy
+Too many / too few
+Too much / too little
