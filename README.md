@@ -1,3 +1,5 @@
+## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 # listen-Read-and-Save
 English-Arabic Dictionary...Translation of "spoken" 
 Learn Easily‏ Learning English is linked to your ability to memorize English words and vocabulary since English vocabulary is not very few So you have compiled in this program most of these words and phrases used and most commonly used as they use 90% each The English language consists of conversations, daily use, school, work, etc.
